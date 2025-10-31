@@ -1,5 +1,2 @@
-
-
-
 # About-Me
-## Hi Everyone! Welcome to Nyrae George's Data World Where All Things Data
+## Hi everyone! I’m Nyrae George — welcome to my Data World, where curiosity meets all things data!
