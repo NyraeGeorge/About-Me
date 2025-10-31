@@ -6,8 +6,11 @@ I thrive on digging into datasets, identifying patterns, and presenting results 
 
 ## Tools I Work With
 Microsoft Excel: 📊
+
 SQL: 🗄️
+
 Python: 🐍
+
 Power BI: 📈
 
 With these tools, I aim to ask the “why” behind the data and push to deliver insights that are not just informative, but impactful. Always learning. Always curious. Always looking for new ways to turn numbers into knowledge is the key to success.
