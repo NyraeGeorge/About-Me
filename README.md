@@ -1,5 +1,5 @@
 ## Hi everyone! I’m Nyrae George 
-## 💼 Welcome to my Data World, where curiosity meets all things data! 💼
+💼 Welcome to my Data World, where curiosity meets all things data! 💼
 
 I am a Data Analyst who is passionate about uncovering insights that drive smart business decisions. Additionally, I specialize in transforming complex data into clear, actionable stories. What fuels me most is the problem-solving nature of data, digging deep into messy datasets, asking the right questions, and finding stories others may overlook.
 
